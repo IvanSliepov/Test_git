@@ -1,0 +1,37 @@
+h1{
+  color: red;
+}
+
+.button_small {
+  /*upper color:#717171;
+  bottom color:#6c6cc
+  text color:#ffffff; #eeeeee; 999999; dddddd; adadad.*/
+  height:27px;
+  width:97;
+  font-size:12pt.;
+  font-family:Ariall;
+  font-weight:regular;
+
+}
+
+.button_large {
+	/*upper color - #717171
+	bottom color - #6c6cc
+	text color - #ffffff; #eeeeee; 999999; dddddd; adadad.*/
+	height: 37px;
+	width: 211px;
+	font-size: 12pt;
+	font-family: Arial;
+	font-weight: regular;
+
+}
+
+h1 {
+  /*upper color - #717171
+  bottom color - #6c6cc
+  text color - #ffffff; #eeeeee; 999999; dddddd; adadad.*/
+  font-size: 25pt;
+  font-family: Times New Roman;
+  font-weight: regular;
+
+}
